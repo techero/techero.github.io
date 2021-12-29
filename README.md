@@ -1,2 +1,0 @@
-# techero.github.io
-

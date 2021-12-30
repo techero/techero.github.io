@@ -3,7 +3,7 @@
     <title>techero</title>
     <link href="https://techero.github.io/feed.xml" rel="self" />
     <link href="https://techero.github.io" />
-    <updated>2021-12-30T05:32:46+03:00</updated>
+    <updated>2021-12-30T05:37:55+03:00</updated>
     <author>
         <name>B.A.</name>
     </author>
@@ -17,7 +17,7 @@
         <link href="https://techero.github.io/godot-c-setup-procedure.html"/>
         <id>https://techero.github.io/godot-c-setup-procedure.html</id>
 
-        <updated>2021-12-30T05:32:46+03:00</updated>
+        <updated>2021-12-30T05:37:55+03:00</updated>
             <summary>
                 <![CDATA[
                      In this short article, I will provide a setup guide for successfully running Godot with C#. Godot is a game engine that supports both 2D and 3D graphics, as well as multiple languages. While language support for C# is still in the works, it&hellip;

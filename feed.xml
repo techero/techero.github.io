@@ -3,7 +3,7 @@
     <title>techero</title>
     <link href="https://techero.github.io/feed.xml" rel="self" />
     <link href="https://techero.github.io" />
-    <updated>2021-12-30T05:37:55+03:00</updated>
+    <updated>2021-12-30T05:54:47+03:00</updated>
     <author>
         <name>B.A.</name>
     </author>
@@ -17,7 +17,7 @@
         <link href="https://techero.github.io/godot-c-setup-procedure.html"/>
         <id>https://techero.github.io/godot-c-setup-procedure.html</id>
 
-        <updated>2021-12-30T05:37:55+03:00</updated>
+        <updated>2021-12-30T05:54:47+03:00</updated>
             <summary>
                 <![CDATA[
                      In this short article, I will provide a setup guide for successfully running Godot with C#. Godot is a game engine that supports both 2D and 3D graphics, as well as multiple languages. While language support for C# is still in the works, it&hellip;
@@ -25,13 +25,17 @@
             </summary>
         <content type="html">
             <![CDATA[
-                <figure class="post__image">                                                      <img loading="lazy"  src="https://godotengine.org/themes/godotengine/assets/download/godot_logo.svg" data-is-external-image="true"  alt="" width="191" height="191"></figure>
+                <p>
+<script async="" src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-6839461691945638" crossorigin="anonymous"></script>
+</p>
+<figure class="post__image">                                                      <img loading="lazy"  src="https://godotengine.org/themes/godotengine/assets/download/godot_logo.svg" data-is-external-image="true"  alt="" width="191" height="191"></figure>
 <p>In this short article, I will provide a setup guide for successfully running Godot with C#. Godot is a game engine that supports both 2D and 3D graphics, as well as multiple languages. While language support for C# is still in the works, it may be useful for someone looking to transition from the Unity game engine to Godot.</p>
 <p>Step 1:<br>As a first step, make sure to download the Godot mono version from the game engine's website or click the link below.</p>
 <p><a href="https://godotengine.org/download">Godot Engine - Download | Windows</a></p>
 <p><br>Step 2:<br><br>Download the visual studio build tools, which appear to be the only ones that work right now (or at a least the only one that I was able to get working)Step 3:</p>
 <p>Step 3:</p>
 <p>Run Godot and enjoy <br><br>NOTE:<br><br>A recent issue that I encountered was that the build tools would not work. This was primarily due to a lack of properly installed Nougat.</p>
+<p> </p>
             ]]>
         </content>
     </entry>
